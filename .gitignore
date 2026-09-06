@@ -3,3 +3,5 @@ __pycache__/
 node_modules/
 .venv/
 *.log
+_site/
+tests/*.png

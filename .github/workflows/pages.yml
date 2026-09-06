@@ -3,65 +3,121 @@ name: Deploy Forma to GitHub Pages
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 
-# contents:write is needed only for the initial source import.
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: read
 
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: forma-pages-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
-  deploy:
+  build:
+    name: Test and build
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      sha256: ${{ steps.package.outputs.sha256 }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-      - name: Restore and verify original application sources
-        if: hashFiles('.bootstrap/source.part-*') != ''
-        run: python3 .bootstrap/import.py
+        with:
+          persist-credentials: false
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Run document, geometry, and renderer tests
+      - name: Run document, geometry, and renderer unit tests
         run: npm test
-      - name: Build standalone application
-        run: npm run build
-      - name: Verify original standalone build
-        if: hashFiles('.bootstrap/source.part-*') != ''
-        run: echo '032a78a37d1614054d1f57b0bd836e5582fa0d238261ad86bb81abc729239199  forma.html' | sha256sum --check
-      - name: Commit expanded editable source and remove transfer archive
-        if: hashFiles('.bootstrap/source.part-*') != ''
+      - name: Build and verify committed standalone application
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git rm -r .bootstrap
-          git add .gitignore BUILD.txt LICENSE README.md build.mjs examples forma.html index.html package.json src style.css tests
-          git commit -m 'feat: import complete Forma design editor, WebGPU engine, examples, and tests'
-          git push origin HEAD:main
+          npm run build
+          git diff --exit-code -- forma.html
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install browser test dependencies
+        run: |
+          python -m pip install 'playwright==1.56.0'
+          python -m playwright install --with-deps chromium
+      - name: Exercise editor through a real HTTP origin
+        env:
+          FORMA_TEST_URL: http://127.0.0.1:8080/forma.html?renderer=canvas
+          CHROMIUM_PATH: /nonexistent/use-playwright-managed-chromium
+        run: |
+          rm -f tests/browser-results.json
+          python -m http.server 8080 --bind 127.0.0.1 > /tmp/forma-http.log 2>&1 &
+          server_pid=$!
+          trap 'kill "$server_pid" 2>/dev/null || true' EXIT
+          for attempt in $(seq 1 20); do
+            if curl --fail --silent http://127.0.0.1:8080/forma.html > /dev/null; then break; fi
+            sleep 1
+          done
+          python tests/browser-smoke.py
+      - name: Upload browser report and screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: browser-verification
+          path: |
+            tests/browser-results.json
+            tests/*.png
+          if-no-files-found: ignore
+          retention-days: 14
       - name: Prepare static site
+        id: package
         run: |
           mkdir -p _site/examples
           cp forma.html _site/index.html
           cp forma.html _site/forma.html
           cp examples/roam.forma _site/examples/roam.forma
           touch _site/.nojekyll
-          printf '{"commit":"%s","run":"%s"}\n' "$(git rev-parse HEAD)" "$GITHUB_RUN_ID" > _site/version.json
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
+          printf '{"commit":"%s","run":"%s"}\n' "$GITHUB_SHA" "$GITHUB_RUN_ID" > _site/version.json
+          echo "sha256=$(sha256sum forma.html | cut -d ' ' -f 1)" >> "$GITHUB_OUTPUT"
       - name: Upload GitHub Pages artifact
+        if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+
+  deploy:
+    name: Publish and verify live site
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
       - name: Deploy GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify live HTTPS content against build checksum
+        env:
+          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+          EXPECTED_SHA256: ${{ needs.build.outputs.sha256 }}
+        run: |
+          for attempt in $(seq 1 18); do
+            if curl --fail --silent --show-error --location --max-time 20 "${PAGE_URL}?build=${GITHUB_SHA}" -o /tmp/forma-live.html; then
+              actual=$(sha256sum /tmp/forma-live.html | cut -d ' ' -f 1)
+              if [ "$actual" = "$EXPECTED_SHA256" ]; then
+                echo "Live HTTPS content verified: $actual"
+                printf '## Forma is published\n\n[Open the editor](%s)\n\nCommit: `%s`\n\nLive HTML SHA-256: `%s`\n' "$PAGE_URL" "$GITHUB_SHA" "$actual" >> "$GITHUB_STEP_SUMMARY"
+                exit 0
+              fi
+              echo "CDN content has not reached the expected build yet (attempt $attempt)."
+            fi
+            sleep 5
+          done
+          echo 'Live site did not match the deployed build checksum.' >&2
+          exit 1
