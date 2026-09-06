@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+const root=path.dirname(fileURLToPath(import.meta.url));
+const modules=['geometry','document','renderer','icons','io','app'];
+let js=modules.map(name=>{let s=fs.readFileSync(path.join(root,'src',name+'.js'),'utf8');s=s.replace(/^import[^\n]*\n/gm,'').replace(/\bexport (?=(?:async )?(?:function|class|const|let|var)\b)/g,'');if(name==='app')s='const esc=escapeXML;\n'+s;return '\n// ── '+name+' ──\n'+s;}).join('\n');
+let html=fs.readFileSync(path.join(root,'index.html'),'utf8');
+html=html.replace('<link rel="stylesheet" href="style.css">','<style>'+fs.readFileSync(path.join(root,'style.css'),'utf8')+'</style>').replace('<script type="module" src="src/app.js"></script>',()=>'<script type="module">\n'+js.replace(/<\/script/gi,'<\\/script')+'\n</script>');
+fs.writeFileSync(path.join(root,'forma.html'),html);
+console.log('Built forma.html:',Buffer.byteLength(html),'bytes');

@@ -1,0 +1,139 @@
+{
+  "tests": [
+    {
+      "test": "Demo loads 136 editable layers",
+      "pass": true
+    },
+    {
+      "test": "Initial selection is editable headline",
+      "pass": true
+    },
+    {
+      "test": "Typography font size and opacity controls have usable widths",
+      "pass": true
+    },
+    {
+      "test": "Dark theme switches tokens",
+      "pass": true
+    },
+    {
+      "test": "Rectangle drag creates real geometry",
+      "pass": true
+    },
+    {
+      "test": "Inspector edits width",
+      "pass": true
+    },
+    {
+      "test": "Undo restores width",
+      "pass": true
+    },
+    {
+      "test": "Redo restores edited width",
+      "pass": true
+    },
+    {
+      "test": "Hex fill applies",
+      "pass": true
+    },
+    {
+      "test": "Pointer movement commits coordinates",
+      "pass": true
+    },
+    {
+      "test": "Duplicate assigns unique identities",
+      "pass": true
+    },
+    {
+      "test": "Group nests selected layers",
+      "pass": true
+    },
+    {
+      "test": "Ungroup preserves editable children",
+      "pass": true
+    },
+    {
+      "test": "Boolean union produces compound vector geometry",
+      "pass": true
+    },
+    {
+      "test": "Boolean undo preserves operands",
+      "pass": true
+    },
+    {
+      "test": "Text editing commits multiline content",
+      "pass": true
+    },
+    {
+      "test": "Text edit is undoable",
+      "pass": true
+    },
+    {
+      "test": "Pen preserves editable cubic handles",
+      "pass": true
+    },
+    {
+      "test": "Enter opens vector editing",
+      "pass": true
+    },
+    {
+      "test": "SVG imports editable geometry and removes script",
+      "pass": true
+    },
+    {
+      "test": "SVG export serializes vector paths",
+      "pass": true
+    },
+    {
+      "test": "PNG export produces decoded 2\u00d7 raster",
+      "pass": true
+    },
+    {
+      "test": "Compressed .sketch archive imports a page and editable rectangle",
+      "pass": true
+    },
+    {
+      "test": "Native document round trip preserves identities",
+      "pass": true
+    },
+    {
+      "test": "Master edits synchronize symbol instances",
+      "pass": true
+    },
+    {
+      "test": "Prototype preview opens actual frame",
+      "pass": true
+    },
+    {
+      "test": "Clicking real hotspot navigates to mobile frame",
+      "pass": true
+    },
+    {
+      "test": "Command palette executes tool command",
+      "pass": true
+    },
+    {
+      "test": "Responsive editor fits mobile viewport",
+      "pass": true
+    },
+    {
+      "test": "Mobile canvas retains a real drawable area",
+      "pass": true
+    },
+    {
+      "test": "Mobile layer drawer is accessible",
+      "pass": true
+    },
+    {
+      "test": "Mobile properties drawer is accessible",
+      "pass": true
+    },
+    {
+      "test": "No uncaught browser errors",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "backend": "Canvas 2D",
+  "originTested": false
+}

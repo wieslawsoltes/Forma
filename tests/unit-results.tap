@@ -1,0 +1,220 @@
+TAP version 13
+# Subtest: affine composition / inverse / center rotation
+ok 1 - affine composition / inverse / center rotation
+  ---
+  duration_ms: 5.624361
+  type: 'test'
+  ...
+# Subtest: rectangle tessellation area
+ok 2 - rectangle tessellation area
+  ---
+  duration_ms: 0.766037
+  type: 'test'
+  ...
+# Subtest: concave polygon tessellation
+ok 3 - concave polygon tessellation
+  ---
+  duration_ms: 0.416824
+  type: 'test'
+  ...
+# Subtest: even-odd hole tessellation
+ok 4 - even-odd hole tessellation
+  ---
+  duration_ms: 0.245539
+  type: 'test'
+  ...
+# Subtest: self-intersection / bow-tie fill
+ok 5 - self-intersection / bow-tie fill
+  ---
+  duration_ms: 0.28673
+  type: 'test'
+  ...
+# Subtest: union overlapping rectangles
+ok 6 - union overlapping rectangles
+  ---
+  duration_ms: 1.45748
+  type: 'test'
+  ...
+# Subtest: intersection overlapping rectangles
+ok 7 - intersection overlapping rectangles
+  ---
+  duration_ms: 0.503376
+  type: 'test'
+  ...
+# Subtest: subtract overlapping rectangles
+ok 8 - subtract overlapping rectangles
+  ---
+  duration_ms: 1.165327
+  type: 'test'
+  ...
+# Subtest: XOR overlapping rectangles
+ok 9 - XOR overlapping rectangles
+  ---
+  duration_ms: 0.687452
+  type: 'test'
+  ...
+# Subtest: subtract contained shape preserves hole
+ok 10 - subtract contained shape preserves hole
+  ---
+  duration_ms: 0.951782
+  type: 'test'
+  ...
+# Subtest: disjoint union / disjoint intersection
+ok 11 - disjoint union / disjoint intersection
+  ---
+  duration_ms: 0.600529
+  type: 'test'
+  ...
+# Subtest: coincident boundaries
+ok 12 - coincident boundaries
+  ---
+  duration_ms: 0.522769
+  type: 'test'
+  ...
+# Subtest: union edge-adjacent rectangles
+ok 13 - union edge-adjacent rectangles
+  ---
+  duration_ms: 0.40613
+  type: 'test'
+  ...
+# Subtest: three operand union
+ok 14 - three operand union
+  ---
+  duration_ms: 0.698241
+  type: 'test'
+  ...
+# Subtest: Bezier subdivision retains endpoints
+ok 15 - Bezier subdivision retains endpoints
+  ---
+  duration_ms: 1.44511
+  type: 'test'
+  ...
+# Subtest: ellipse shape hit vs corner
+ok 16 - ellipse shape hit vs corner
+  ---
+  duration_ms: 0.882365
+  type: 'test'
+  ...
+# Subtest: stroke mesh finite for zero-length edges
+ok 17 - stroke mesh finite for zero-length edges
+  ---
+  duration_ms: 0.567066
+  type: 'test'
+  ...
+# Subtest: transaction, undo, redo preserve document
+ok 18 - transaction, undo, redo preserve document
+  ---
+  duration_ms: 1.248984
+  type: 'test'
+  ...
+# Subtest: cancel restores atomic transaction
+ok 19 - cancel restores atomic transaction
+  ---
+  duration_ms: 0.247393
+  type: 'test'
+  ...
+# Subtest: group / ungroup preserve world coordinates
+ok 20 - group / ungroup preserve world coordinates
+  ---
+  duration_ms: 1.421382
+  type: 'test'
+  ...
+# Subtest: nested selection only transforms roots
+ok 21 - nested selection only transforms roots
+  ---
+  duration_ms: 0.460232
+  type: 'test'
+  ...
+# Subtest: group resize scales children and paths
+ok 22 - group resize scales children and paths
+  ---
+  duration_ms: 0.329798
+  type: 'test'
+  ...
+# Subtest: stack layout gaps, padding and hug
+ok 23 - stack layout gaps, padding and hug
+  ---
+  duration_ms: 0.346175
+  type: 'test'
+  ...
+# Subtest: demo schema / symbol instance identity
+ok 24 - demo schema / symbol instance identity
+  ---
+  duration_ms: 5.076601
+  type: 'test'
+  ...
+# Subtest: schema rejects duplicate ids and malicious remote image
+ok 25 - schema rejects duplicate ids and malicious remote image
+  ---
+  duration_ms: 0.634889
+  type: 'test'
+  ...
+# Subtest: schema rejects invalid bounds and deep nesting
+ok 26 - schema rejects invalid bounds and deep nesting
+  ---
+  duration_ms: 0.605109
+  type: 'test'
+  ...
+# Subtest: symbol instance overrides survive subsequent master edits
+ok 27 - symbol instance overrides survive subsequent master edits
+  ---
+  duration_ms: 6.295482
+  type: 'test'
+  ...
+# Subtest: duplicated instance preserves its master source references
+ok 28 - duplicated instance preserves its master source references
+  ---
+  duration_ms: 4.191271
+  type: 'test'
+  ...
+# Subtest: new instance can explicitly remap to the selected master
+ok 29 - new instance can explicitly remap to the selected master
+  ---
+  duration_ms: 0.142345
+  type: 'test'
+  ...
+# Subtest: master resize preserves each instance outer dimensions
+ok 30 - master resize preserves each instance outer dimensions
+  ---
+  duration_ms: 2.941701
+  type: 'test'
+  ...
+# Subtest: WebGPU command packing, batching and culling with a mock device
+ok 31 - WebGPU command packing, batching and culling with a mock device
+  ---
+  duration_ms: 7.746716
+  type: 'test'
+  ...
+# Subtest: WebGPU clip ranges and affine inverse packing with a mock device
+ok 32 - WebGPU clip ranges and affine inverse packing with a mock device
+  ---
+  duration_ms: 0.784767
+  type: 'test'
+  ...
+# Subtest: WebGPU mesh caching invalidates fill and releases old resources with a mock device
+ok 33 - WebGPU mesh caching invalidates fill and releases old resources with a mock device
+  ---
+  duration_ms: 1.817247
+  type: 'test'
+  ...
+# Subtest: WebGPU buffer growth invalidates bindings with a mock device
+ok 34 - WebGPU buffer growth invalidates bindings with a mock device
+  ---
+  duration_ms: 0.315879
+  type: 'test'
+  ...
+# Subtest: WebGPU device loss changes canvas and reports fallback with a mock device
+ok 35 - WebGPU device loss changes canvas and reports fallback with a mock device
+  ---
+  duration_ms: 6.595071
+  type: 'test'
+  ...
+1..35
+# tests 35
+# suites 0
+# pass 35
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 125.80526

@@ -1,0 +1,7 @@
+Forma 0.1.0
+Built: 2026-09-06
+Runtime dependencies: none
+Node tests: 35 passed (30 model/geometry + 5 mocked WebGPU)
+Browser assertions: 33 passed, Canvas 2D backend
+Hardware WebGPU / secure-origin IndexedDB: unverified
+Standalone HTML SHA-256: 032a78a37d1614054d1f57b0bd836e5582fa0d238261ad86bb81abc729239199

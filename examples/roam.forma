@@ -1,0 +1,4514 @@
+{
+  "format": "forma",
+  "version": 1,
+  "id": "fdec2a16-cb4e-49a4-b089-9157c3790117",
+  "name": "Roam — Brand & website",
+  "activePage": "page-design",
+  "pages": [
+    {
+      "id": "page-design",
+      "name": "Website design",
+      "nodes": [
+        {
+          "id": "d3c38b69-b1bf-47c0-91df-e651210c9d2a",
+          "type": "frame",
+          "name": "01 — Roam · Desktop",
+          "x": 0,
+          "y": 0,
+          "w": 1080,
+          "h": 820,
+          "rotation": 0,
+          "opacity": 1,
+          "visible": true,
+          "locked": false,
+          "fill": "#F8F8F1",
+          "fill2": "#85BBA0",
+          "gradient": false,
+          "gradientAngle": 90,
+          "stroke": "none",
+          "strokeWidth": 0,
+          "radius": 0,
+          "clip": true,
+          "children": [
+            {
+              "id": "07de4f15-750a-4471-9a32-5db819cc3d49",
+              "type": "text",
+              "name": "roam",
+              "x": 44,
+              "y": 24,
+              "w": 80.60000000000001,
+              "h": 44.949999999999996,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "roam",
+              "fontSize": 31,
+              "fontFamily": "Arial",
+              "fontWeight": 700,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": -1.5,
+              "textAlign": "left"
+            },
+            {
+              "id": "a850519f-fc65-4e5b-a127-b52d82c0eb18",
+              "type": "text",
+              "name": "Places",
+              "x": 360,
+              "y": 35,
+              "w": 70,
+              "h": 18.849999999999998,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "Places",
+              "fontSize": 13,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "1d9fb76d-52f4-4d6c-bed5-d536e82cc903",
+              "type": "text",
+              "name": "Experiences",
+              "x": 455,
+              "y": 35,
+              "w": 95,
+              "h": 18.849999999999998,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "Experiences",
+              "fontSize": 13,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "c32fd75f-e7ad-4764-9c02-4b270a83efe7",
+              "type": "text",
+              "name": "Our story",
+              "x": 580,
+              "y": 35,
+              "w": 100,
+              "h": 18.849999999999998,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "Our story",
+              "fontSize": 13,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "1b78450b-77e5-4e64-9d60-961aa6fbfdee",
+              "type": "rect",
+              "name": "Navigation · Get inspired",
+              "x": 892,
+              "y": 25,
+              "w": 145,
+              "h": 38,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#244C3C",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 20
+            },
+            {
+              "id": "e5306465-2ce3-4019-a584-46ab3b46dd34",
+              "type": "text",
+              "name": "Get inspired  ↗",
+              "x": 911,
+              "y": 36,
+              "w": 125,
+              "h": 17.4,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#FFFFFF",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "Get inspired  ↗",
+              "fontSize": 12,
+              "fontFamily": "Arial",
+              "fontWeight": 600,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "66ce6a73-5c5c-430b-b548-ac2bf39cd856",
+              "type": "rect",
+              "name": "Header divider",
+              "x": 44,
+              "y": 84,
+              "w": 992,
+              "h": 1,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#E3E6DB",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0
+            },
+            {
+              "id": "78a6e576-0383-42d1-a415-0cd02906b8c7",
+              "type": "rect",
+              "name": "Eyebrow pill",
+              "x": 46,
+              "y": 124,
+              "w": 174,
+              "h": 25,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#E7EBDD",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 13
+            },
+            {
+              "id": "ce881d8b-f8ef-4bea-8daa-c0c771bdbb6a",
+              "type": "text",
+              "name": "✦   OUTSIDE IS CALLING",
+              "x": 58,
+              "y": 131,
+              "w": 165,
+              "h": 13.049999999999999,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#244C3C",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "✦   OUTSIDE IS CALLING",
+              "fontSize": 9,
+              "fontFamily": "Arial",
+              "fontWeight": 600,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 1.05,
+              "textAlign": "left"
+            },
+            {
+              "id": "1d599908-ee93-4100-85d9-504433be4c4a",
+              "type": "text",
+              "name": "Hero headline",
+              "x": 44,
+              "y": 174,
+              "w": 550,
+              "h": 147,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "A little further.\nA little freer.",
+              "fontSize": 65,
+              "fontFamily": "Georgia",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.02,
+              "letterSpacing": -2.8,
+              "textAlign": "left"
+            },
+            {
+              "id": "9047e165-06ac-496b-836f-75e925db865f",
+              "type": "text",
+              "name": "For the places that move you. And the moments\nthat stay with you long after you’re home.",
+              "x": 48,
+              "y": 338,
+              "w": 425,
+              "h": 45,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "For the places that move you. And the moments\nthat stay with you long after you’re home.",
+              "fontSize": 15,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.55,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "c9e4d6ae-55ba-4b6e-b993-9e97da03b216",
+              "type": "symbol",
+              "name": "Button / Primary",
+              "x": 47,
+              "y": 407,
+              "w": 199,
+              "h": 48,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "none",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "children": [
+                {
+                  "id": "1e3cc826-9c88-45e3-a1a3-9a5a677f806e",
+                  "type": "rect",
+                  "name": "Background",
+                  "x": 0,
+                  "y": 0,
+                  "w": 199,
+                  "h": 48,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#244C3C",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 25
+                },
+                {
+                  "id": "4241e356-9f47-49da-8561-0181d7c4ac67",
+                  "type": "text",
+                  "name": "Explore somewhere new",
+                  "x": 19,
+                  "y": 17,
+                  "w": 175,
+                  "h": 17.4,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#FFFFFF",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "text": "Explore somewhere new",
+                  "fontSize": 12,
+                  "fontFamily": "Arial",
+                  "fontWeight": 600,
+                  "fontStyle": "normal",
+                  "lineHeight": 1.25,
+                  "letterSpacing": 0,
+                  "textAlign": "left"
+                }
+              ],
+              "link": "c8cbd06e-f590-403d-ad87-e0641d1af79a"
+            },
+            {
+              "id": "772bb525-efc3-45e1-ae29-89ee0eff65ac",
+              "type": "text",
+              "name": "Thoughtfully curated. Wonderfully wild.",
+              "x": 48,
+              "y": 474,
+              "w": 330,
+              "h": 14.5,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "Thoughtfully curated. Wonderfully wild.",
+              "fontSize": 10,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "6e577265-d23e-4814-916e-c42a003d4e3a",
+              "type": "group",
+              "name": "Hero · The great outdoors",
+              "x": 618,
+              "y": 119,
+              "w": 416,
+              "h": 356,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "none",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 112,
+              "clip": true,
+              "children": [
+                {
+                  "id": "da904dad-4182-49cd-b610-a2e71ee23090",
+                  "type": "rect",
+                  "name": "Sky",
+                  "x": 0,
+                  "y": 0,
+                  "w": 416,
+                  "h": 356,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#DCE9E4",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0
+                },
+                {
+                  "id": "4c00f052-f4d2-4a9e-8f7e-758473ccba5a",
+                  "type": "ellipse",
+                  "name": "Morning sun",
+                  "x": 291.2,
+                  "y": 42.72,
+                  "w": 58.24000000000001,
+                  "h": 58.24000000000001,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#F5E7B6",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0
+                },
+                {
+                  "id": "464cfa34-29b8-4bee-8d85-a99e6eb879d0",
+                  "type": "path",
+                  "name": "Distant peaks",
+                  "x": 0,
+                  "y": 53.4,
+                  "w": 416,
+                  "h": 302.6,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#9DC1B5",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 135.28
+                    },
+                    {
+                      "x": 83.2,
+                      "y": 10.68
+                    },
+                    {
+                      "x": 162.24,
+                      "y": 117.47999999999999
+                    },
+                    {
+                      "x": 232.96000000000004,
+                      "y": 0
+                    },
+                    {
+                      "x": 366.08,
+                      "y": 121.03999999999999
+                    },
+                    {
+                      "x": 416,
+                      "y": 67.64000000000001
+                    },
+                    {
+                      "x": 416,
+                      "y": 302.6
+                    },
+                    {
+                      "x": 0,
+                      "y": 302.6
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "68dce1be-82cc-4b0a-a577-46b75c4fe03e",
+                  "type": "path",
+                  "name": "Snow line",
+                  "x": 166.4,
+                  "y": 53.4,
+                  "w": 137.28,
+                  "h": 81.88,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#F0F3E8",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 81.88
+                    },
+                    {
+                      "x": 66.56000000000003,
+                      "y": 0
+                    },
+                    {
+                      "x": 137.28,
+                      "y": 67.64000000000001
+                    },
+                    {
+                      "x": 91.52000000000001,
+                      "y": 53.4
+                    },
+                    {
+                      "x": 74.87999999999997,
+                      "y": 67.64000000000001
+                    },
+                    {
+                      "x": 54.08000000000001,
+                      "y": 42.720000000000006
+                    },
+                    {
+                      "x": 41.599999999999994,
+                      "y": 71.19999999999999
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "76b4ee6e-7645-4027-941b-45bcdb0753f0",
+                  "type": "path",
+                  "name": "Mountain ridge",
+                  "x": 0,
+                  "y": 128.16,
+                  "w": 416,
+                  "h": 227.84,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#669989",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 78.32
+                    },
+                    {
+                      "x": 128.96,
+                      "y": 0
+                    },
+                    {
+                      "x": 249.6,
+                      "y": 113.92000000000002
+                    },
+                    {
+                      "x": 349.44,
+                      "y": 21.359999999999985
+                    },
+                    {
+                      "x": 416,
+                      "y": 49.84
+                    },
+                    {
+                      "x": 416,
+                      "y": 227.84
+                    },
+                    {
+                      "x": 0,
+                      "y": 227.84
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "2bd67c96-f5f2-4a3e-961d-3a437b534e47",
+                  "type": "path",
+                  "name": "Lake shore",
+                  "x": 0,
+                  "y": 213.6,
+                  "w": 416,
+                  "h": 142.4,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#427B69",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 49.84
+                    },
+                    {
+                      "x": 95.68,
+                      "y": 7.1200000000000045
+                    },
+                    {
+                      "x": 253.76,
+                      "y": 56.96000000000001
+                    },
+                    {
+                      "x": 416,
+                      "y": 0
+                    },
+                    {
+                      "x": 416,
+                      "y": 142.4
+                    },
+                    {
+                      "x": 0,
+                      "y": 142.4
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "80ee7b19-5323-4a2d-9bac-7b1c79eafa9a",
+                  "type": "path",
+                  "name": "Glacial lake",
+                  "x": 33.28,
+                  "y": 256.32,
+                  "w": 349.44000000000005,
+                  "h": 99.68,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#AECAC0",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 46.27999999999997
+                    },
+                    {
+                      "x": 91.52,
+                      "y": 14.240000000000009
+                    },
+                    {
+                      "x": 203.83999999999997,
+                      "y": 32.04000000000002
+                    },
+                    {
+                      "x": 349.44000000000005,
+                      "y": 0
+                    },
+                    {
+                      "x": 228.79999999999998,
+                      "y": 64.08000000000004
+                    },
+                    {
+                      "x": 291.20000000000005,
+                      "y": 99.68
+                    },
+                    {
+                      "x": 37.44,
+                      "y": 99.68
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "f0ff13de-1ba9-40c0-9186-451aa5884e96",
+                  "type": "path",
+                  "name": "Foreground",
+                  "x": 0,
+                  "y": 281.24,
+                  "w": 108.16,
+                  "h": 74.75999999999999,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 17.799999999999955
+                    },
+                    {
+                      "x": 41.6,
+                      "y": 0
+                    },
+                    {
+                      "x": 108.16,
+                      "y": 74.75999999999999
+                    },
+                    {
+                      "x": 0,
+                      "y": 74.75999999999999
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "9bd871ba-697d-4734-b955-f6ac20f77a70",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 6.24,
+                  "y": 228.39999999999998,
+                  "w": 20.799999999999997,
+                  "h": 20.80000000000001,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 10.4,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 20.80000000000001
+                    },
+                    {
+                      "x": 20.799999999999997,
+                      "y": 20.80000000000001
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "9d170fdf-4a26-43a5-8537-c46b6d7994df",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 19.136000000000003,
+                  "y": 239.55200000000002,
+                  "w": 22.464,
+                  "h": 22.464,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 11.232,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 22.464
+                    },
+                    {
+                      "x": 22.464,
+                      "y": 22.464
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "9cc6e482-0977-4280-82ba-644071e9c52c",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 32.032000000000004,
+                  "y": 250.704,
+                  "w": 24.128,
+                  "h": 24.127999999999986,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 12.064,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 24.127999999999986
+                    },
+                    {
+                      "x": 24.128,
+                      "y": 24.127999999999986
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "3f5f4718-3a81-4c18-954f-db0aeeba487d",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 44.928000000000004,
+                  "y": 261.856,
+                  "w": 25.791999999999994,
+                  "h": 25.791999999999973,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 12.896,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 25.791999999999973
+                    },
+                    {
+                      "x": 25.791999999999994,
+                      "y": 25.791999999999973
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "f88f4247-284f-48ec-b3d9-e27289bc295e",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 57.824000000000005,
+                  "y": 273.008,
+                  "w": 27.455999999999996,
+                  "h": 27.456000000000017,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 13.728000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 27.456000000000017
+                    },
+                    {
+                      "x": 27.455999999999996,
+                      "y": 27.456000000000017
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "70584d41-65d3-4b9d-a163-3bea0100d8db",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 70.72,
+                  "y": 284.15999999999997,
+                  "w": 29.120000000000005,
+                  "h": 29.120000000000005,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 14.560000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 29.120000000000005
+                    },
+                    {
+                      "x": 29.120000000000005,
+                      "y": 29.120000000000005
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "49a0c481-9357-4060-943b-0d53227ca5e2",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 83.61600000000001,
+                  "y": 295.31199999999995,
+                  "w": 30.783999999999992,
+                  "h": 30.783999999999992,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 15.391999999999996,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 30.783999999999992
+                    },
+                    {
+                      "x": 30.783999999999992,
+                      "y": 30.783999999999992
+                    }
+                  ],
+                  "closed": true
+                }
+              ]
+            },
+            {
+              "id": "aca96a4c-d12f-4928-b332-28443a48af97",
+              "type": "rect",
+              "name": "Postcard label",
+              "x": 589,
+              "y": 365,
+              "w": 165,
+              "h": 78,
+              "rotation": -8,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#FFFFFF",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 10,
+              "shadowEnabled": true,
+              "shadowColor": "#163D31",
+              "shadowOpacity": 0.12,
+              "shadowX": 0,
+              "shadowY": 7,
+              "shadowBlur": 15
+            },
+            {
+              "id": "fb1ec0f9-1953-484a-8c15-77767458479a",
+              "type": "text",
+              "name": "46°38′ N  12°18′ E",
+              "x": 606,
+              "y": 381,
+              "w": 160,
+              "h": 13.049999999999999,
+              "rotation": -8,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "46°38′ N  12°18′ E",
+              "fontSize": 9,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "9ea60d8f-7baf-42f4-a0cc-030a31bf201c",
+              "type": "text",
+              "name": "Find your kind\nof nowhere.",
+              "x": 606,
+              "y": 398,
+              "w": 148,
+              "h": 42,
+              "rotation": -8,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "Find your kind\nof nowhere.",
+              "fontSize": 16,
+              "fontFamily": "Georgia",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "8d2901e4-5158-4a8f-9008-2cf97f091639",
+              "type": "text",
+              "name": "A change of scenery",
+              "x": 45,
+              "y": 551,
+              "w": 560,
+              "h": 39.15,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "A change of scenery",
+              "fontSize": 27,
+              "fontFamily": "Georgia",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "c4c00063-8d92-4592-a5dc-e0be8ed8f812",
+              "type": "text",
+              "name": "THE GOOD KIND OF GETTING LOST",
+              "x": 47,
+              "y": 590,
+              "w": 400,
+              "h": 13.049999999999999,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "THE GOOD KIND OF GETTING LOST",
+              "fontSize": 9,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 1.2,
+              "textAlign": "left"
+            },
+            {
+              "id": "9d8b8155-9a2b-4afb-92a4-1731c4cd15bd",
+              "type": "text",
+              "name": "Explore all places   ↗",
+              "x": 905,
+              "y": 563,
+              "w": 150,
+              "h": 15.95,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#244C3C",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "Explore all places   ↗",
+              "fontSize": 11,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "04d10ad0-0e62-48e7-ba3a-aaee63081c92",
+              "type": "group",
+              "name": "Alpine illustration",
+              "x": 45,
+              "y": 623,
+              "w": 314,
+              "h": 114,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "none",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 9,
+              "clip": true,
+              "children": [
+                {
+                  "id": "b69db243-8eff-455c-becf-bba8019ccc3d",
+                  "type": "rect",
+                  "name": "Sky",
+                  "x": 0,
+                  "y": 0,
+                  "w": 314,
+                  "h": 114,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#DCE9E4",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0
+                },
+                {
+                  "id": "7f4459b6-679d-4433-92c8-429f65358112",
+                  "type": "ellipse",
+                  "name": "Morning sun",
+                  "x": 219.79999999999998,
+                  "y": 13.68,
+                  "w": 43.96,
+                  "h": 43.96,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#F5E7B6",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0
+                },
+                {
+                  "id": "69c3ea9f-6bee-44bc-93a9-40f166979cdf",
+                  "type": "path",
+                  "name": "Distant peaks",
+                  "x": 0,
+                  "y": 17.099999999999998,
+                  "w": 314,
+                  "h": 96.9,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#9DC1B5",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 43.32000000000001
+                    },
+                    {
+                      "x": 62.800000000000004,
+                      "y": 3.4200000000000017
+                    },
+                    {
+                      "x": 122.46000000000001,
+                      "y": 37.620000000000005
+                    },
+                    {
+                      "x": 175.84,
+                      "y": 0
+                    },
+                    {
+                      "x": 276.32,
+                      "y": 38.760000000000005
+                    },
+                    {
+                      "x": 314,
+                      "y": 21.660000000000007
+                    },
+                    {
+                      "x": 314,
+                      "y": 96.9
+                    },
+                    {
+                      "x": 0,
+                      "y": 96.9
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "0a751206-9734-49af-b846-24dde3981902",
+                  "type": "path",
+                  "name": "Snow line",
+                  "x": 125.60000000000001,
+                  "y": 17.099999999999998,
+                  "w": 103.61999999999999,
+                  "h": 26.220000000000002,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#F0F3E8",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 26.220000000000002
+                    },
+                    {
+                      "x": 50.239999999999995,
+                      "y": 0
+                    },
+                    {
+                      "x": 103.61999999999999,
+                      "y": 21.660000000000007
+                    },
+                    {
+                      "x": 69.08,
+                      "y": 17.099999999999998
+                    },
+                    {
+                      "x": 56.51999999999997,
+                      "y": 21.660000000000007
+                    },
+                    {
+                      "x": 40.82000000000001,
+                      "y": 13.680000000000003
+                    },
+                    {
+                      "x": 31.39999999999999,
+                      "y": 22.8
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "c5d441ef-6154-4bb9-8233-29a283d834a7",
+                  "type": "path",
+                  "name": "Mountain ridge",
+                  "x": 0,
+                  "y": 41.04,
+                  "w": 314,
+                  "h": 72.96000000000001,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#669989",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 25.07999999999999
+                    },
+                    {
+                      "x": 97.34,
+                      "y": 0
+                    },
+                    {
+                      "x": 188.4,
+                      "y": 36.48000000000001
+                    },
+                    {
+                      "x": 263.76,
+                      "y": 6.839999999999996
+                    },
+                    {
+                      "x": 314,
+                      "y": 15.96
+                    },
+                    {
+                      "x": 314,
+                      "y": 72.96000000000001
+                    },
+                    {
+                      "x": 0,
+                      "y": 72.96000000000001
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "f5c80368-9b30-421b-bd62-5503ae52e8c6",
+                  "type": "path",
+                  "name": "Lake shore",
+                  "x": 0,
+                  "y": 68.39999999999999,
+                  "w": 314,
+                  "h": 45.60000000000001,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#427B69",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 15.960000000000008
+                    },
+                    {
+                      "x": 72.22,
+                      "y": 2.280000000000001
+                    },
+                    {
+                      "x": 191.54,
+                      "y": 18.24000000000001
+                    },
+                    {
+                      "x": 314,
+                      "y": 0
+                    },
+                    {
+                      "x": 314,
+                      "y": 45.60000000000001
+                    },
+                    {
+                      "x": 0,
+                      "y": 45.60000000000001
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "abca3104-cd3a-4b81-96a6-3652ee07e0e7",
+                  "type": "path",
+                  "name": "Glacial lake",
+                  "x": 25.12,
+                  "y": 82.08,
+                  "w": 263.76,
+                  "h": 31.92,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#AECAC0",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 14.819999999999993
+                    },
+                    {
+                      "x": 69.08,
+                      "y": 4.560000000000002
+                    },
+                    {
+                      "x": 153.85999999999999,
+                      "y": 10.260000000000005
+                    },
+                    {
+                      "x": 263.76,
+                      "y": 0
+                    },
+                    {
+                      "x": 172.7,
+                      "y": 20.52000000000001
+                    },
+                    {
+                      "x": 219.8,
+                      "y": 31.92
+                    },
+                    {
+                      "x": 28.26,
+                      "y": 31.92
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "711c0895-43fe-4dd4-a2e6-5d585ba652a2",
+                  "type": "path",
+                  "name": "Foreground",
+                  "x": 0,
+                  "y": 90.06,
+                  "w": 81.64,
+                  "h": 23.939999999999998,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 5.699999999999989
+                    },
+                    {
+                      "x": 31.400000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 81.64,
+                      "y": 23.939999999999998
+                    },
+                    {
+                      "x": 0,
+                      "y": 23.939999999999998
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "342e56df-60be-4b4f-b93b-e4ed9dcddd07",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 4.71,
+                  "y": 64.1,
+                  "w": 15.7,
+                  "h": 15.700000000000003,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 7.8500000000000005,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 15.700000000000003
+                    },
+                    {
+                      "x": 15.7,
+                      "y": 15.700000000000003
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "34b147f2-94d2-4934-9607-ab82cf9c77f0",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 14.444000000000003,
+                  "y": 66.948,
+                  "w": 16.956000000000003,
+                  "h": 16.956000000000003,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 8.478000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 16.956000000000003
+                    },
+                    {
+                      "x": 16.956000000000003,
+                      "y": 16.956000000000003
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "638236b7-c9f0-4b68-9271-0c131d24009a",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 24.178000000000004,
+                  "y": 69.79599999999999,
+                  "w": 18.212000000000003,
+                  "h": 18.212000000000003,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 9.106000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 18.212000000000003
+                    },
+                    {
+                      "x": 18.212000000000003,
+                      "y": 18.212000000000003
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "e188d8c9-f124-4bf7-8fe4-af82b77ab768",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 33.912,
+                  "y": 72.64399999999999,
+                  "w": 19.468000000000004,
+                  "h": 19.468000000000004,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 9.734000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 19.468000000000004
+                    },
+                    {
+                      "x": 19.468000000000004,
+                      "y": 19.468000000000004
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "b37c9c0d-34a6-4b0c-8b5e-4aaf690d3fe8",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 43.646,
+                  "y": 75.49199999999999,
+                  "w": 20.724000000000004,
+                  "h": 20.724000000000004,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 10.362000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 20.724000000000004
+                    },
+                    {
+                      "x": 20.724000000000004,
+                      "y": 20.724000000000004
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "dd42f999-c656-4ade-b198-0673da4cf395",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 53.38,
+                  "y": 78.33999999999999,
+                  "w": 21.979999999999997,
+                  "h": 21.980000000000004,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 10.990000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 21.980000000000004
+                    },
+                    {
+                      "x": 21.979999999999997,
+                      "y": 21.980000000000004
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "e2b772a7-55cb-4e6d-b9ad-1647362db720",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 63.114,
+                  "y": 81.18799999999999,
+                  "w": 23.235999999999997,
+                  "h": 23.236000000000004,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 11.618000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 23.236000000000004
+                    },
+                    {
+                      "x": 23.235999999999997,
+                      "y": 23.236000000000004
+                    }
+                  ],
+                  "closed": true
+                }
+              ]
+            },
+            {
+              "id": "6bf2ed28-ae86-4030-a50b-b88cf6c83663",
+              "type": "text",
+              "name": "Higher grounds",
+              "x": 45,
+              "y": 749,
+              "w": 310,
+              "h": 21.75,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "Higher grounds",
+              "fontSize": 15,
+              "fontFamily": "Arial",
+              "fontWeight": 600,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "241a9c3b-086f-4ddd-8482-e88dfcd22171",
+              "type": "text",
+              "name": "DOLOMITES, ITALY",
+              "x": 45,
+              "y": 775,
+              "w": 310,
+              "h": 11.6,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "DOLOMITES, ITALY",
+              "fontSize": 8,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 1.2,
+              "textAlign": "left"
+            },
+            {
+              "id": "8c33a5ea-d025-4e95-a153-5e9929408ca3",
+              "type": "group",
+              "name": "Valley illustration",
+              "x": 383,
+              "y": 623,
+              "w": 314,
+              "h": 114,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "none",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 9,
+              "clip": true,
+              "children": [
+                {
+                  "id": "a9cedece-379b-414a-973e-cde042ece86d",
+                  "type": "rect",
+                  "name": "Sky",
+                  "x": 0,
+                  "y": 0,
+                  "w": 314,
+                  "h": 114,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#D9E6CE",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0
+                },
+                {
+                  "id": "481d55ab-4703-418d-aad7-eb04ae8450fe",
+                  "type": "ellipse",
+                  "name": "Morning sun",
+                  "x": 219.79999999999998,
+                  "y": 13.68,
+                  "w": 43.96,
+                  "h": 43.96,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#F5E7B6",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0
+                },
+                {
+                  "id": "897f51dd-9243-4122-8c29-9b4e9e45106b",
+                  "type": "path",
+                  "name": "Distant peaks",
+                  "x": 0,
+                  "y": 17.099999999999998,
+                  "w": 314,
+                  "h": 96.9,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#9EB7A4",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 43.32000000000001
+                    },
+                    {
+                      "x": 62.800000000000004,
+                      "y": 3.4200000000000017
+                    },
+                    {
+                      "x": 122.46000000000001,
+                      "y": 37.620000000000005
+                    },
+                    {
+                      "x": 175.84,
+                      "y": 0
+                    },
+                    {
+                      "x": 276.32,
+                      "y": 38.760000000000005
+                    },
+                    {
+                      "x": 314,
+                      "y": 21.660000000000007
+                    },
+                    {
+                      "x": 314,
+                      "y": 96.9
+                    },
+                    {
+                      "x": 0,
+                      "y": 96.9
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "045cd219-064e-49d1-9b29-aa55ebfeddba",
+                  "type": "path",
+                  "name": "Snow line",
+                  "x": 125.60000000000001,
+                  "y": 17.099999999999998,
+                  "w": 103.61999999999999,
+                  "h": 26.220000000000002,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#F0F3E8",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 26.220000000000002
+                    },
+                    {
+                      "x": 50.239999999999995,
+                      "y": 0
+                    },
+                    {
+                      "x": 103.61999999999999,
+                      "y": 21.660000000000007
+                    },
+                    {
+                      "x": 69.08,
+                      "y": 17.099999999999998
+                    },
+                    {
+                      "x": 56.51999999999997,
+                      "y": 21.660000000000007
+                    },
+                    {
+                      "x": 40.82000000000001,
+                      "y": 13.680000000000003
+                    },
+                    {
+                      "x": 31.39999999999999,
+                      "y": 22.8
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "46cfe294-155b-4346-bd7b-950038a8a518",
+                  "type": "path",
+                  "name": "Mountain ridge",
+                  "x": 0,
+                  "y": 41.04,
+                  "w": 314,
+                  "h": 72.96000000000001,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#5E8A79",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 25.07999999999999
+                    },
+                    {
+                      "x": 97.34,
+                      "y": 0
+                    },
+                    {
+                      "x": 188.4,
+                      "y": 36.48000000000001
+                    },
+                    {
+                      "x": 263.76,
+                      "y": 6.839999999999996
+                    },
+                    {
+                      "x": 314,
+                      "y": 15.96
+                    },
+                    {
+                      "x": 314,
+                      "y": 72.96000000000001
+                    },
+                    {
+                      "x": 0,
+                      "y": 72.96000000000001
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "f8c46f2f-60bb-47ae-8a66-a7452bea5110",
+                  "type": "path",
+                  "name": "Lake shore",
+                  "x": 0,
+                  "y": 68.39999999999999,
+                  "w": 314,
+                  "h": 45.60000000000001,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#416B60",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 15.960000000000008
+                    },
+                    {
+                      "x": 72.22,
+                      "y": 2.280000000000001
+                    },
+                    {
+                      "x": 191.54,
+                      "y": 18.24000000000001
+                    },
+                    {
+                      "x": 314,
+                      "y": 0
+                    },
+                    {
+                      "x": 314,
+                      "y": 45.60000000000001
+                    },
+                    {
+                      "x": 0,
+                      "y": 45.60000000000001
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "23f3f287-fe88-4897-94e5-80a3a54482f3",
+                  "type": "path",
+                  "name": "Glacial lake",
+                  "x": 25.12,
+                  "y": 82.08,
+                  "w": 263.76,
+                  "h": 31.92,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#AECAC0",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 14.819999999999993
+                    },
+                    {
+                      "x": 69.08,
+                      "y": 4.560000000000002
+                    },
+                    {
+                      "x": 153.85999999999999,
+                      "y": 10.260000000000005
+                    },
+                    {
+                      "x": 263.76,
+                      "y": 0
+                    },
+                    {
+                      "x": 172.7,
+                      "y": 20.52000000000001
+                    },
+                    {
+                      "x": 219.8,
+                      "y": 31.92
+                    },
+                    {
+                      "x": 28.26,
+                      "y": 31.92
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "3b6f4bc3-01e8-469c-8ba0-7a1bb2f3c509",
+                  "type": "path",
+                  "name": "Foreground",
+                  "x": 0,
+                  "y": 90.06,
+                  "w": 81.64,
+                  "h": 23.939999999999998,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#254F45",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 5.699999999999989
+                    },
+                    {
+                      "x": 31.400000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 81.64,
+                      "y": 23.939999999999998
+                    },
+                    {
+                      "x": 0,
+                      "y": 23.939999999999998
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "c2650f42-992b-44a1-8b4e-8a848c957bfc",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 4.71,
+                  "y": 64.1,
+                  "w": 15.7,
+                  "h": 15.700000000000003,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#254F45",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 7.8500000000000005,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 15.700000000000003
+                    },
+                    {
+                      "x": 15.7,
+                      "y": 15.700000000000003
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "147cdaa6-2d6e-4682-ad1b-ce2ee08c22f2",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 14.444000000000003,
+                  "y": 66.948,
+                  "w": 16.956000000000003,
+                  "h": 16.956000000000003,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#254F45",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 8.478000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 16.956000000000003
+                    },
+                    {
+                      "x": 16.956000000000003,
+                      "y": 16.956000000000003
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "72a53927-ae60-44f1-9d8c-2af56a8e75ac",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 24.178000000000004,
+                  "y": 69.79599999999999,
+                  "w": 18.212000000000003,
+                  "h": 18.212000000000003,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#254F45",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 9.106000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 18.212000000000003
+                    },
+                    {
+                      "x": 18.212000000000003,
+                      "y": 18.212000000000003
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "f0ca3916-94b8-476e-99a8-5dc2db28d8d8",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 33.912,
+                  "y": 72.64399999999999,
+                  "w": 19.468000000000004,
+                  "h": 19.468000000000004,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#254F45",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 9.734000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 19.468000000000004
+                    },
+                    {
+                      "x": 19.468000000000004,
+                      "y": 19.468000000000004
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "1a21753a-77bc-4cc4-a0a0-916aefad3be7",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 43.646,
+                  "y": 75.49199999999999,
+                  "w": 20.724000000000004,
+                  "h": 20.724000000000004,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#254F45",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 10.362000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 20.724000000000004
+                    },
+                    {
+                      "x": 20.724000000000004,
+                      "y": 20.724000000000004
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "016558fd-63ba-4560-843e-c7d7d6206f3d",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 53.38,
+                  "y": 78.33999999999999,
+                  "w": 21.979999999999997,
+                  "h": 21.980000000000004,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#254F45",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 10.990000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 21.980000000000004
+                    },
+                    {
+                      "x": 21.979999999999997,
+                      "y": 21.980000000000004
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "1afc342a-2c1e-4c50-abce-a421cf863890",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 63.114,
+                  "y": 81.18799999999999,
+                  "w": 23.235999999999997,
+                  "h": 23.236000000000004,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#254F45",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 11.618000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 23.236000000000004
+                    },
+                    {
+                      "x": 23.235999999999997,
+                      "y": 23.236000000000004
+                    }
+                  ],
+                  "closed": true
+                }
+              ]
+            },
+            {
+              "id": "7240ae10-db0a-4c44-a616-68e81f7a8a99",
+              "type": "text",
+              "name": "A slower kind of day",
+              "x": 383,
+              "y": 749,
+              "w": 310,
+              "h": 21.75,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "A slower kind of day",
+              "fontSize": 15,
+              "fontFamily": "Arial",
+              "fontWeight": 600,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "9458d250-87e1-47a7-9335-e94fe2d0cbdf",
+              "type": "text",
+              "name": "LAKE DISTRICT, ENGLAND",
+              "x": 383,
+              "y": 775,
+              "w": 310,
+              "h": 11.6,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "LAKE DISTRICT, ENGLAND",
+              "fontSize": 8,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 1.2,
+              "textAlign": "left"
+            },
+            {
+              "id": "95e9b9c2-c524-40c0-ad1b-ada559cc6b19",
+              "type": "group",
+              "name": "Alpine illustration",
+              "x": 721,
+              "y": 623,
+              "w": 314,
+              "h": 114,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "none",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 9,
+              "clip": true,
+              "children": [
+                {
+                  "id": "a62526e6-cb71-4ab3-b697-9da2f38adf08",
+                  "type": "rect",
+                  "name": "Sky",
+                  "x": 0,
+                  "y": 0,
+                  "w": 314,
+                  "h": 114,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#DCE9E4",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0
+                },
+                {
+                  "id": "a6936e84-181a-4942-8b67-9a66dab35ce3",
+                  "type": "ellipse",
+                  "name": "Morning sun",
+                  "x": 219.79999999999998,
+                  "y": 13.68,
+                  "w": 43.96,
+                  "h": 43.96,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#F5E7B6",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0
+                },
+                {
+                  "id": "95558f2b-ce53-4975-a69f-1e790744249d",
+                  "type": "path",
+                  "name": "Distant peaks",
+                  "x": 0,
+                  "y": 17.099999999999998,
+                  "w": 314,
+                  "h": 96.9,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#9DC1B5",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 43.32000000000001
+                    },
+                    {
+                      "x": 62.800000000000004,
+                      "y": 3.4200000000000017
+                    },
+                    {
+                      "x": 122.46000000000001,
+                      "y": 37.620000000000005
+                    },
+                    {
+                      "x": 175.84,
+                      "y": 0
+                    },
+                    {
+                      "x": 276.32,
+                      "y": 38.760000000000005
+                    },
+                    {
+                      "x": 314,
+                      "y": 21.660000000000007
+                    },
+                    {
+                      "x": 314,
+                      "y": 96.9
+                    },
+                    {
+                      "x": 0,
+                      "y": 96.9
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "33f6c643-074e-4270-a854-f77418ea1242",
+                  "type": "path",
+                  "name": "Snow line",
+                  "x": 125.60000000000001,
+                  "y": 17.099999999999998,
+                  "w": 103.61999999999999,
+                  "h": 26.220000000000002,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#F0F3E8",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 26.220000000000002
+                    },
+                    {
+                      "x": 50.239999999999995,
+                      "y": 0
+                    },
+                    {
+                      "x": 103.61999999999999,
+                      "y": 21.660000000000007
+                    },
+                    {
+                      "x": 69.08,
+                      "y": 17.099999999999998
+                    },
+                    {
+                      "x": 56.51999999999997,
+                      "y": 21.660000000000007
+                    },
+                    {
+                      "x": 40.82000000000001,
+                      "y": 13.680000000000003
+                    },
+                    {
+                      "x": 31.39999999999999,
+                      "y": 22.8
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "7c9d4ddc-9972-4196-985a-a9607dfa5998",
+                  "type": "path",
+                  "name": "Mountain ridge",
+                  "x": 0,
+                  "y": 41.04,
+                  "w": 314,
+                  "h": 72.96000000000001,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#669989",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 25.07999999999999
+                    },
+                    {
+                      "x": 97.34,
+                      "y": 0
+                    },
+                    {
+                      "x": 188.4,
+                      "y": 36.48000000000001
+                    },
+                    {
+                      "x": 263.76,
+                      "y": 6.839999999999996
+                    },
+                    {
+                      "x": 314,
+                      "y": 15.96
+                    },
+                    {
+                      "x": 314,
+                      "y": 72.96000000000001
+                    },
+                    {
+                      "x": 0,
+                      "y": 72.96000000000001
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "9c239658-3d74-4e4f-9354-049c8dacecf2",
+                  "type": "path",
+                  "name": "Lake shore",
+                  "x": 0,
+                  "y": 68.39999999999999,
+                  "w": 314,
+                  "h": 45.60000000000001,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#427B69",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 15.960000000000008
+                    },
+                    {
+                      "x": 72.22,
+                      "y": 2.280000000000001
+                    },
+                    {
+                      "x": 191.54,
+                      "y": 18.24000000000001
+                    },
+                    {
+                      "x": 314,
+                      "y": 0
+                    },
+                    {
+                      "x": 314,
+                      "y": 45.60000000000001
+                    },
+                    {
+                      "x": 0,
+                      "y": 45.60000000000001
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "551ef26c-0c4d-4b75-9116-379b98fca491",
+                  "type": "path",
+                  "name": "Glacial lake",
+                  "x": 25.12,
+                  "y": 82.08,
+                  "w": 263.76,
+                  "h": 31.92,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#AECAC0",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 14.819999999999993
+                    },
+                    {
+                      "x": 69.08,
+                      "y": 4.560000000000002
+                    },
+                    {
+                      "x": 153.85999999999999,
+                      "y": 10.260000000000005
+                    },
+                    {
+                      "x": 263.76,
+                      "y": 0
+                    },
+                    {
+                      "x": 172.7,
+                      "y": 20.52000000000001
+                    },
+                    {
+                      "x": 219.8,
+                      "y": 31.92
+                    },
+                    {
+                      "x": 28.26,
+                      "y": 31.92
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "68282206-2aab-4917-b164-463d94de2fe0",
+                  "type": "path",
+                  "name": "Foreground",
+                  "x": 0,
+                  "y": 90.06,
+                  "w": 81.64,
+                  "h": 23.939999999999998,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 5.699999999999989
+                    },
+                    {
+                      "x": 31.400000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 81.64,
+                      "y": 23.939999999999998
+                    },
+                    {
+                      "x": 0,
+                      "y": 23.939999999999998
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "217afd27-cc1c-420e-9415-22d7fd326867",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 4.71,
+                  "y": 64.1,
+                  "w": 15.7,
+                  "h": 15.700000000000003,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 7.8500000000000005,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 15.700000000000003
+                    },
+                    {
+                      "x": 15.7,
+                      "y": 15.700000000000003
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "ed1d723a-093f-4387-a007-a5054ce7bdbd",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 14.444000000000003,
+                  "y": 66.948,
+                  "w": 16.956000000000003,
+                  "h": 16.956000000000003,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 8.478000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 16.956000000000003
+                    },
+                    {
+                      "x": 16.956000000000003,
+                      "y": 16.956000000000003
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "9375d7d1-1540-4074-b2da-794abe15f20b",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 24.178000000000004,
+                  "y": 69.79599999999999,
+                  "w": 18.212000000000003,
+                  "h": 18.212000000000003,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 9.106000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 18.212000000000003
+                    },
+                    {
+                      "x": 18.212000000000003,
+                      "y": 18.212000000000003
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "1e0e8b05-1242-4aba-af48-183327a1f73c",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 33.912,
+                  "y": 72.64399999999999,
+                  "w": 19.468000000000004,
+                  "h": 19.468000000000004,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 9.734000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 19.468000000000004
+                    },
+                    {
+                      "x": 19.468000000000004,
+                      "y": 19.468000000000004
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "97f786ae-e44f-41f7-83f2-db4db832009f",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 43.646,
+                  "y": 75.49199999999999,
+                  "w": 20.724000000000004,
+                  "h": 20.724000000000004,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 10.362000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 20.724000000000004
+                    },
+                    {
+                      "x": 20.724000000000004,
+                      "y": 20.724000000000004
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "e561ec8d-181a-40d7-823d-a97b54b7c183",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 53.38,
+                  "y": 78.33999999999999,
+                  "w": 21.979999999999997,
+                  "h": 21.980000000000004,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 10.990000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 21.980000000000004
+                    },
+                    {
+                      "x": 21.979999999999997,
+                      "y": 21.980000000000004
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "853b0f8f-3b12-45df-a1e5-4f4863e081ff",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 63.114,
+                  "y": 81.18799999999999,
+                  "w": 23.235999999999997,
+                  "h": 23.236000000000004,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 11.618000000000002,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 23.236000000000004
+                    },
+                    {
+                      "x": 23.235999999999997,
+                      "y": 23.236000000000004
+                    }
+                  ],
+                  "closed": true
+                }
+              ]
+            },
+            {
+              "id": "fbf6dae1-7d7e-4a13-a510-41cdf3b4eaad",
+              "type": "text",
+              "name": "Take the scenic route",
+              "x": 721,
+              "y": 749,
+              "w": 310,
+              "h": 21.75,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "Take the scenic route",
+              "fontSize": 15,
+              "fontFamily": "Arial",
+              "fontWeight": 600,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "1040ecd3-47f0-4438-b655-6db9370979da",
+              "type": "text",
+              "name": "JULIAN ALPS, SLOVENIA",
+              "x": 721,
+              "y": 775,
+              "w": 310,
+              "h": 11.6,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "JULIAN ALPS, SLOVENIA",
+              "fontSize": 8,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 1.2,
+              "textAlign": "left"
+            }
+          ]
+        },
+        {
+          "id": "c8cbd06e-f590-403d-ad87-e0641d1af79a",
+          "type": "frame",
+          "name": "02 — Roam · Mobile",
+          "x": 1180,
+          "y": 0,
+          "w": 350,
+          "h": 756,
+          "rotation": 0,
+          "opacity": 1,
+          "visible": true,
+          "locked": false,
+          "fill": "#F8F8F1",
+          "fill2": "#85BBA0",
+          "gradient": false,
+          "gradientAngle": 90,
+          "stroke": "none",
+          "strokeWidth": 0,
+          "radius": 0,
+          "clip": true,
+          "children": [
+            {
+              "id": "4f200603-2d02-464d-9af5-dfe3da3a9e87",
+              "type": "text",
+              "name": "9:41",
+              "x": 23,
+              "y": 16,
+              "w": 50,
+              "h": 15.95,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "9:41",
+              "fontSize": 11,
+              "fontFamily": "Arial",
+              "fontWeight": 700,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "6afe8e8f-53b6-4904-8074-4e9a1fae966a",
+              "type": "text",
+              "name": "● ▰",
+              "x": 293,
+              "y": 16,
+              "w": 40,
+              "h": 15.95,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "● ▰",
+              "fontSize": 11,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "1a154819-bfc4-4d81-9515-f76abb7bb3f0",
+              "type": "text",
+              "name": "roam",
+              "x": 25,
+              "y": 51,
+              "w": 75.4,
+              "h": 42.05,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "roam",
+              "fontSize": 29,
+              "fontFamily": "Arial",
+              "fontWeight": 700,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": -1,
+              "textAlign": "left"
+            },
+            {
+              "id": "095d08f9-901f-4240-91c1-6a634f0188d4",
+              "type": "text",
+              "name": "☰",
+              "x": 305,
+              "y": 56,
+              "w": 28,
+              "h": 29,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#244C3C",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "☰",
+              "fontSize": 20,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "c18800ac-0cf1-4ecd-9d30-500ada58edbc",
+              "type": "rect",
+              "name": "Eyebrow",
+              "x": 25,
+              "y": 115,
+              "w": 172,
+              "h": 25,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#E7EBDD",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 13
+            },
+            {
+              "id": "ba8aea9e-fbd6-42c3-8b30-5dfb127fde56",
+              "type": "text",
+              "name": "✦   OUTSIDE IS CALLING",
+              "x": 37,
+              "y": 123,
+              "w": 164,
+              "h": 13.049999999999999,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#244C3C",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "✦   OUTSIDE IS CALLING",
+              "fontSize": 9,
+              "fontFamily": "Arial",
+              "fontWeight": 600,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 1,
+              "textAlign": "left"
+            },
+            {
+              "id": "d3331341-8cbb-4b6d-b247-c645456cf97b",
+              "type": "text",
+              "name": "A little further.\nA little freer.",
+              "x": 23,
+              "y": 165,
+              "w": 324,
+              "h": 103,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "A little further.\nA little freer.",
+              "fontSize": 44,
+              "fontFamily": "Georgia",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.06,
+              "letterSpacing": -1.7,
+              "textAlign": "left"
+            },
+            {
+              "id": "9d5455f2-2d73-42e7-8bc3-3ee912963665",
+              "type": "text",
+              "name": "For the places that move you.\nAnd the moments that stay with you.",
+              "x": 25,
+              "y": 284,
+              "w": 308,
+              "h": 42,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "For the places that move you.\nAnd the moments that stay with you.",
+              "fontSize": 12,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.6,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "79fda8c7-1aa3-4725-bf21-a2e1c9538641",
+              "type": "instance",
+              "name": "Button / Primary instance",
+              "x": 25,
+              "y": 350,
+              "w": 199,
+              "h": 48,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "none",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "children": [
+                {
+                  "id": "bb8a3077-4467-42d4-8dc5-1794b615127e",
+                  "type": "rect",
+                  "name": "Background",
+                  "x": 0,
+                  "y": 0,
+                  "w": 199,
+                  "h": 48,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#244C3C",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 25,
+                  "sourceId": "1e3cc826-9c88-45e3-a1a3-9a5a677f806e"
+                },
+                {
+                  "id": "ad50c7a2-6cb0-414d-bd43-3e50eba12ebb",
+                  "type": "text",
+                  "name": "Explore somewhere new",
+                  "x": 19,
+                  "y": 17,
+                  "w": 175,
+                  "h": 17.4,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#FFFFFF",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "text": "Explore somewhere new",
+                  "fontSize": 12,
+                  "fontFamily": "Arial",
+                  "fontWeight": 600,
+                  "fontStyle": "normal",
+                  "lineHeight": 1.25,
+                  "letterSpacing": 0,
+                  "textAlign": "left",
+                  "sourceId": "4241e356-9f47-49da-8561-0181d7c4ac67"
+                }
+              ],
+              "sourceId": "c9e4d6ae-55ba-4b6e-b993-9e97da03b216",
+              "masterId": "c9e4d6ae-55ba-4b6e-b993-9e97da03b216",
+              "link": "d3c38b69-b1bf-47c0-91df-e651210c9d2a"
+            },
+            {
+              "id": "f7c4f464-8064-4985-84cf-6056953932e4",
+              "type": "group",
+              "name": "Alpine illustration",
+              "x": 25,
+              "y": 425,
+              "w": 300,
+              "h": 244,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "none",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 14,
+              "clip": true,
+              "children": [
+                {
+                  "id": "d148f8d2-0c83-4eff-88af-42255df41624",
+                  "type": "rect",
+                  "name": "Sky",
+                  "x": 0,
+                  "y": 0,
+                  "w": 300,
+                  "h": 244,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#DCE9E4",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0
+                },
+                {
+                  "id": "e677d8d5-7dd5-4074-969f-2f8736ead8a8",
+                  "type": "ellipse",
+                  "name": "Morning sun",
+                  "x": 210,
+                  "y": 29.279999999999998,
+                  "w": 42.00000000000001,
+                  "h": 42.00000000000001,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#F5E7B6",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0
+                },
+                {
+                  "id": "69337a5b-4403-47df-9152-932f1961cf7b",
+                  "type": "path",
+                  "name": "Distant peaks",
+                  "x": 0,
+                  "y": 36.6,
+                  "w": 300,
+                  "h": 207.4,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#9DC1B5",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 92.72
+                    },
+                    {
+                      "x": 60,
+                      "y": 7.32
+                    },
+                    {
+                      "x": 117,
+                      "y": 80.51999999999998
+                    },
+                    {
+                      "x": 168.00000000000003,
+                      "y": 0
+                    },
+                    {
+                      "x": 264,
+                      "y": 82.96000000000001
+                    },
+                    {
+                      "x": 300,
+                      "y": 46.36000000000001
+                    },
+                    {
+                      "x": 300,
+                      "y": 207.4
+                    },
+                    {
+                      "x": 0,
+                      "y": 207.4
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "a8e998f9-db83-4e9a-9a16-c4ad1d539eed",
+                  "type": "path",
+                  "name": "Snow line",
+                  "x": 120,
+                  "y": 36.6,
+                  "w": 99,
+                  "h": 56.12,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#F0F3E8",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 56.12
+                    },
+                    {
+                      "x": 48.00000000000003,
+                      "y": 0
+                    },
+                    {
+                      "x": 99,
+                      "y": 46.36000000000001
+                    },
+                    {
+                      "x": 66,
+                      "y": 36.6
+                    },
+                    {
+                      "x": 54,
+                      "y": 46.36000000000001
+                    },
+                    {
+                      "x": 39,
+                      "y": 29.28000000000001
+                    },
+                    {
+                      "x": 30,
+                      "y": 48.79999999999999
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "cd86cc36-5f29-45cd-9a4a-4a06057a409a",
+                  "type": "path",
+                  "name": "Mountain ridge",
+                  "x": 0,
+                  "y": 87.84,
+                  "w": 300,
+                  "h": 156.16,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#669989",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 53.67999999999998
+                    },
+                    {
+                      "x": 93,
+                      "y": 0
+                    },
+                    {
+                      "x": 180,
+                      "y": 78.08000000000001
+                    },
+                    {
+                      "x": 252,
+                      "y": 14.639999999999986
+                    },
+                    {
+                      "x": 300,
+                      "y": 34.16
+                    },
+                    {
+                      "x": 300,
+                      "y": 156.16
+                    },
+                    {
+                      "x": 0,
+                      "y": 156.16
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "ff1b1eda-7153-4b36-a285-a087424bd777",
+                  "type": "path",
+                  "name": "Lake shore",
+                  "x": 0,
+                  "y": 146.4,
+                  "w": 300,
+                  "h": 97.6,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#427B69",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 34.16
+                    },
+                    {
+                      "x": 69,
+                      "y": 4.8799999999999955
+                    },
+                    {
+                      "x": 183,
+                      "y": 39.03999999999999
+                    },
+                    {
+                      "x": 300,
+                      "y": 0
+                    },
+                    {
+                      "x": 300,
+                      "y": 97.6
+                    },
+                    {
+                      "x": 0,
+                      "y": 97.6
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "da464a2c-d40c-4f6e-924d-0ce8444ea747",
+                  "type": "path",
+                  "name": "Glacial lake",
+                  "x": 24,
+                  "y": 175.68,
+                  "w": 252,
+                  "h": 68.32,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#AECAC0",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 31.72
+                    },
+                    {
+                      "x": 66,
+                      "y": 9.759999999999991
+                    },
+                    {
+                      "x": 146.99999999999997,
+                      "y": 21.960000000000008
+                    },
+                    {
+                      "x": 252,
+                      "y": 0
+                    },
+                    {
+                      "x": 165,
+                      "y": 43.91999999999999
+                    },
+                    {
+                      "x": 210,
+                      "y": 68.32
+                    },
+                    {
+                      "x": 27.000000000000007,
+                      "y": 68.32
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "cd22aeb6-bd28-44df-b8cc-24b5f9a04d2c",
+                  "type": "path",
+                  "name": "Foreground",
+                  "x": 0,
+                  "y": 192.76000000000002,
+                  "w": 78,
+                  "h": 51.23999999999998,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 0,
+                      "y": 12.19999999999996
+                    },
+                    {
+                      "x": 30,
+                      "y": 0
+                    },
+                    {
+                      "x": 78,
+                      "y": 51.23999999999998
+                    },
+                    {
+                      "x": 0,
+                      "y": 51.23999999999998
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "fa54543e-5b3e-4488-80aa-0800781c2dd4",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 4.5,
+                  "y": 155.79999999999998,
+                  "w": 15,
+                  "h": 15,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 7.5,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 15
+                    },
+                    {
+                      "x": 15,
+                      "y": 15
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "96ab26c8-7e27-4267-95ee-d7a765e49da1",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 13.8,
+                  "y": 163.38400000000001,
+                  "w": 16.200000000000003,
+                  "h": 16.19999999999999,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 8.100000000000001,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 16.19999999999999
+                    },
+                    {
+                      "x": 16.200000000000003,
+                      "y": 16.19999999999999
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "9e3226e7-390b-45b2-8041-66108b351a61",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 23.1,
+                  "y": 170.96799999999996,
+                  "w": 17.400000000000006,
+                  "h": 17.400000000000006,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 8.700000000000003,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 17.400000000000006
+                    },
+                    {
+                      "x": 17.400000000000006,
+                      "y": 17.400000000000006
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "d182901f-aeff-44d9-8d93-97685af14376",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 32.400000000000006,
+                  "y": 178.552,
+                  "w": 18.599999999999994,
+                  "h": 18.599999999999994,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 9.299999999999997,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 18.599999999999994
+                    },
+                    {
+                      "x": 18.599999999999994,
+                      "y": 18.599999999999994
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "8000af6c-78d1-405e-9946-65bac25d20c2",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 41.7,
+                  "y": 186.136,
+                  "w": 19.799999999999997,
+                  "h": 19.80000000000001,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 9.899999999999999,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 19.80000000000001
+                    },
+                    {
+                      "x": 19.799999999999997,
+                      "y": 19.80000000000001
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "aa905f44-da5b-49d6-8184-76462cfaf9fa",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 51.00000000000001,
+                  "y": 193.71999999999997,
+                  "w": 21.000000000000007,
+                  "h": 21,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 10.5,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 21
+                    },
+                    {
+                      "x": 21.000000000000007,
+                      "y": 21
+                    }
+                  ],
+                  "closed": true
+                },
+                {
+                  "id": "19dcd0cd-d3cb-45a4-bd39-ae7ebd971c5e",
+                  "type": "path",
+                  "name": "Pine tree",
+                  "x": 60.300000000000004,
+                  "y": 201.30399999999997,
+                  "w": 22.199999999999996,
+                  "h": 22.200000000000017,
+                  "rotation": 0,
+                  "opacity": 1,
+                  "visible": true,
+                  "locked": false,
+                  "fill": "#1E5649",
+                  "fill2": "#85BBA0",
+                  "gradient": false,
+                  "gradientAngle": 90,
+                  "stroke": "none",
+                  "strokeWidth": 0,
+                  "radius": 0,
+                  "points": [
+                    {
+                      "x": 11.100000000000001,
+                      "y": 0
+                    },
+                    {
+                      "x": 0,
+                      "y": 22.200000000000017
+                    },
+                    {
+                      "x": 22.199999999999996,
+                      "y": 22.200000000000017
+                    }
+                  ],
+                  "closed": true
+                }
+              ]
+            },
+            {
+              "id": "5870529b-aeaf-49be-970a-b87e8203daa0",
+              "type": "text",
+              "name": "Go where you feel alive.",
+              "x": 25,
+              "y": 694,
+              "w": 310,
+              "h": 27.55,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "Go where you feel alive.",
+              "fontSize": 19,
+              "fontFamily": "Georgia",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            }
+          ]
+        },
+        {
+          "id": "6ce19b2b-486e-4370-9530-1232c8a9084a",
+          "type": "frame",
+          "name": "Brand foundations",
+          "x": 0,
+          "y": 940,
+          "w": 1080,
+          "h": 400,
+          "rotation": 0,
+          "opacity": 1,
+          "visible": true,
+          "locked": false,
+          "fill": "#FFFFFF",
+          "fill2": "#85BBA0",
+          "gradient": false,
+          "gradientAngle": 90,
+          "stroke": "none",
+          "strokeWidth": 0,
+          "radius": 0,
+          "clip": true,
+          "children": [
+            {
+              "id": "5c010426-c38b-498e-92d1-23502c314df0",
+              "type": "text",
+              "name": "The feeling of somewhere new.",
+              "x": 36,
+              "y": 27,
+              "w": 950,
+              "h": 44.949999999999996,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "The feeling of somewhere new.",
+              "fontSize": 31,
+              "fontFamily": "Georgia",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "3337dad6-ab08-4c7f-a7d6-34aa3166798a",
+              "type": "text",
+              "name": "ROAM / VISUAL IDENTITY",
+              "x": 38,
+              "y": 82,
+              "w": 500,
+              "h": 14.5,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "ROAM / VISUAL IDENTITY",
+              "fontSize": 10,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 2,
+              "textAlign": "left"
+            },
+            {
+              "id": "bfbfc025-5d82-4741-ad57-903a0291898a",
+              "type": "rect",
+              "name": "Color / #173F31",
+              "x": 38,
+              "y": 133,
+              "w": 188,
+              "h": 102,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 9
+            },
+            {
+              "id": "26741e80-2c9a-4a5a-bdd7-125fa4fcef61",
+              "type": "text",
+              "name": "#173F31",
+              "x": 39,
+              "y": 248,
+              "w": 180,
+              "h": 17.4,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "#173F31",
+              "fontSize": 12,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "b3a7c04b-a9ae-4964-b6ba-8811d3158576",
+              "type": "rect",
+              "name": "Color / #244C3C",
+              "x": 242,
+              "y": 133,
+              "w": 188,
+              "h": 102,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#244C3C",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 9
+            },
+            {
+              "id": "245ff085-030d-4ac3-a0ba-afd0a36e3408",
+              "type": "text",
+              "name": "#244C3C",
+              "x": 243,
+              "y": 248,
+              "w": 180,
+              "h": 17.4,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "#244C3C",
+              "fontSize": 12,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "b393a4ce-4ac0-45aa-b2d9-d4a711a99881",
+              "type": "rect",
+              "name": "Color / #AECAC0",
+              "x": 446,
+              "y": 133,
+              "w": 188,
+              "h": 102,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#AECAC0",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 9
+            },
+            {
+              "id": "4c4087b9-0940-4d0d-b480-c5bcf667dc42",
+              "type": "text",
+              "name": "#AECAC0",
+              "x": 447,
+              "y": 248,
+              "w": 180,
+              "h": 17.4,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "#AECAC0",
+              "fontSize": 12,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "481ceec2-b990-4bab-8ee1-499dbca16c62",
+              "type": "rect",
+              "name": "Color / #F8F8F1",
+              "x": 650,
+              "y": 133,
+              "w": 188,
+              "h": 102,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#F8F8F1",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 9
+            },
+            {
+              "id": "80222936-ae3c-40de-bc89-cc238eac92c6",
+              "type": "text",
+              "name": "#F8F8F1",
+              "x": 651,
+              "y": 248,
+              "w": 180,
+              "h": 17.4,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "#F8F8F1",
+              "fontSize": 12,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "f64e9896-6a32-4f59-9aa5-da6a042a34d0",
+              "type": "rect",
+              "name": "Color / #ED7855",
+              "x": 854,
+              "y": 133,
+              "w": 188,
+              "h": 102,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#ED7855",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 9
+            },
+            {
+              "id": "13386231-06bc-4a8a-bb0d-50c47a0695d5",
+              "type": "text",
+              "name": "#ED7855",
+              "x": 855,
+              "y": 248,
+              "w": 180,
+              "h": 17.4,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#7C877E",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "#ED7855",
+              "fontSize": 12,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "294e3aa7-2847-4f6a-a690-f6564f47c2b3",
+              "type": "text",
+              "name": "Aa   Georgia",
+              "x": 39,
+              "y": 298,
+              "w": 440,
+              "h": 49.3,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "Aa   Georgia",
+              "fontSize": 34,
+              "fontFamily": "Georgia",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            },
+            {
+              "id": "fe99e92a-cf9d-4082-b605-6aabc08f74c0",
+              "type": "text",
+              "name": "Aa   Arial / Regular / Medium / Bold",
+              "x": 535,
+              "y": 310,
+              "w": 500,
+              "h": 26.099999999999998,
+              "rotation": 0,
+              "opacity": 1,
+              "visible": true,
+              "locked": false,
+              "fill": "#173F31",
+              "fill2": "#85BBA0",
+              "gradient": false,
+              "gradientAngle": 90,
+              "stroke": "none",
+              "strokeWidth": 0,
+              "radius": 0,
+              "text": "Aa   Arial / Regular / Medium / Bold",
+              "fontSize": 18,
+              "fontFamily": "Arial",
+              "fontWeight": 400,
+              "fontStyle": "normal",
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textAlign": "left"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "page-explorations",
+      "name": "Explorations",
+      "nodes": []
+    }
+  ],
+  "colors": [
+    "#173F31",
+    "#244C3C",
+    "#AECAC0",
+    "#F8F8F1",
+    "#ED7855",
+    "#FFFFFF",
+    "#151515",
+    "#A48CBE"
+  ],
+  "textStyles": [
+    {
+      "name": "Display / Editorial",
+      "fontFamily": "Georgia",
+      "fontSize": 48,
+      "lineHeight": 1.1,
+      "fontWeight": 400
+    },
+    {
+      "name": "Body / Regular",
+      "fontFamily": "Arial",
+      "fontSize": 16,
+      "lineHeight": 1.5,
+      "fontWeight": 400
+    }
+  ],
+  "assets": {}
+}

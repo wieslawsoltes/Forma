@@ -1,0 +1,17 @@
+{
+  "name": "forma-design",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-first, dependency-free vector design editor with a retained WebGPU renderer",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "build": "node build.mjs",
+    "test": "node --test tests/*.test.js",
+    "test:browser": "python3 tests/browser-smoke.py"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  }
+}
